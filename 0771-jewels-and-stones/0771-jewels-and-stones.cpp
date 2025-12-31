@@ -10,7 +10,7 @@ public:
 
         for(char i : jewels) {
             if(mp[i] > 0) {
-                count += mp[i];
+                count = count + mp[i];
             }
         }
         return count;
