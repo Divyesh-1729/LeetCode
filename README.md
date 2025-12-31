@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
