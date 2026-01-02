@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Divyesh-1729/LeetCode/tree/master/0463-island-perimeter) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Divyesh-1729/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
