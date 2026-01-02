@@ -83,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Divyesh-1729/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Divyesh-1729/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Divyesh-1729/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
