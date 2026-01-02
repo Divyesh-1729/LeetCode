@@ -84,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Divyesh-1729/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Divyesh-1729/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Divyesh-1729/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
