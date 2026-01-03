@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Divyesh-1729/LeetCode/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Divyesh-1729/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Divyesh-1729/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Tree
 |  |
 | ------- |
