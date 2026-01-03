@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Divyesh-1729/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Divyesh-1729/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Divyesh-1729/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Divyesh-1729/LeetCode/tree/master/0412-fizz-buzz) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Divyesh-1729/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
