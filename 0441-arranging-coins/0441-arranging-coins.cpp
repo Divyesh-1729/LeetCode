@@ -6,6 +6,6 @@ public:
             rows++;        // move to next row
             n -= rows;     // fill current row by subtracting from available coins
         }
-        return rows - 1;  
+        return rows-1 ;  
     }
 };
