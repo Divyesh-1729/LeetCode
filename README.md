@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Divyesh-1729/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Divyesh-1729/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Divyesh-1729/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyesh-1729/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
@@ -169,8 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Divyesh-1729/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyesh-1729/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Divyesh-1729/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyesh-1729/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
