@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Divyesh-1729/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Divyesh-1729/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyesh-1729/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Divyesh-1729/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyesh-1729/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
