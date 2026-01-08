@@ -53,7 +53,7 @@ public:
             sum+=nums[i];
             int rem = sum-k;
 
-            if(mp.find(rem) != mp.end()){
+            if(mp.count(rem)){
                 ans+=mp[rem];
             }
 
