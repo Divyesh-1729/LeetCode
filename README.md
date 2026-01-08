@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyesh-1729/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Divyesh-1729/LeetCode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Divyesh-1729/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyesh-1729/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyesh-1729/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Divyesh-1729/LeetCode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyesh-1729/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Divyesh-1729/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -112,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Divyesh-1729/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Divyesh-1729/LeetCode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Divyesh-1729/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Divyesh-1729/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Divyesh-1729/LeetCode/tree/master/0796-rotate-string) |
