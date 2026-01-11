@@ -4,8 +4,8 @@ public:
     bool checkIfPangram(string sentence) {
         unordered_map<char,int>mp;
         {
-            for(char c = 'a'; c <= 'z'; c++)
-            mp[c] = 0;
+            for(char ch = 'a'; ch <= 'z'; ch++)
+            mp[ch] = 0;
         }
         for(char ch : sentence)
         {
