@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Divyesh-1729/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Divyesh-1729/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Divyesh-1729/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Divyesh-1729/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Divyesh-1729/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
