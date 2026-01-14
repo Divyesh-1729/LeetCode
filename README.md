@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Divyesh-1729/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Divyesh-1729/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Divyesh-1729/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Divyesh-1729/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0507-perfect-number) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Divyesh-1729/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Divyesh-1729/LeetCode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Divyesh-1729/LeetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Divyesh-1729/LeetCode/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
