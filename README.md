@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/Divyesh-1729/LeetCode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Divyesh-1729/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1390-four-divisors](https://github.com/Divyesh-1729/LeetCode/tree/master/1390-four-divisors) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/Divyesh-1729/LeetCode/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Divyesh-1729/LeetCode/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Divyesh-1729/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
