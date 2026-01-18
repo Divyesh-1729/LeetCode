@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1390-four-divisors](https://github.com/Divyesh-1729/LeetCode/tree/master/1390-four-divisors) |
 | [1539-kth-missing-positive-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Divyesh-1729/LeetCode/tree/master/1051-height-checker) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Divyesh-1729/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Divyesh-1729/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Divyesh-1729/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
