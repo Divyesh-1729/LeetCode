@@ -1,12 +1,13 @@
 class Solution {
 public:
-    long long compute(vector<int>& piles, int speed) {
-        long long hours = 0;
-        for (int pile : piles) {
-            hours += (pile + speed - 1) / speed;
-        }
-        return hours;
+ long long compute(vector<int>& piles, int speed) {
+    long long hours = 0;
+    for (int pile : piles) {
+        hours += (long long)ceil((double)pile / speed);
     }
+    return hours;
+}
+
 
     int minEatingSpeed(vector<int>& piles, int h) {
         int s = 1;
