@@ -13,19 +13,35 @@ public:
         //     }
         // }
         // return found;
-        vector<int>sorted(nums.size());
-        sorted = nums;
-        sort(sorted.begin(),sorted.end());
-        int found =0;
 
-        for(int  i = 0;i < sorted.size()-1;i++)
+        //dupliation 
+        // vector<int>sorted(nums.size());
+        // sorted = nums;
+        // sort(sorted.begin(),sorted.end());
+        // int found =0;
+
+        // for(int  i = 0;i < sorted.size()-1;i++)
+        // {
+        //     if(sorted[i]==sorted[i+1])
+        //     {
+        //         found = sorted[i];
+        //     }
+        // }
+        // return found;
+
+        //Hashmap
+        unordered_map<int,int>mp;
+        int detected  = 0;
+        for(int i :nums)
         {
-            if(sorted[i]==sorted[i+1])
-            {
-                found = sorted[i];
-            }
+            mp[i]++;
         }
-        return found;
+        for(auto& it : mp)
+        if(it.second > 1)
+        {
+            detected =  it.first;
+        }
+        return detected;
 
     }
 };
