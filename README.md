@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Divyesh-1729/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Divyesh-1729/LeetCode/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 <!---LeetCode Topics End-->
