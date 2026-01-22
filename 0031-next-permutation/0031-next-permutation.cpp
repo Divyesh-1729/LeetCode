@@ -32,3 +32,5 @@ public:
     }
 };
 
+//Find the breakppont, kuthe magchya value peksha greater value ahe, tyannatar just find just greater element than that, milala ki swap karun break karyahcya, then reverse fromm idx+2 to end
+
