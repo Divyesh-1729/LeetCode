@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1390-four-divisors](https://github.com/Divyesh-1729/LeetCode/tree/master/1390-four-divisors) |
 | [1539-kth-missing-positive-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Divyesh-1729/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
