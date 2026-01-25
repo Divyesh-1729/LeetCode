@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Divyesh-1729/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2413-smallest-even-multiple](https://github.com/Divyesh-1729/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Divyesh-1729/LeetCode/tree/master/2652-sum-multiples) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Divyesh-1729/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Divyesh-1729/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Quickselect
 |  |
@@ -384,5 +386,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 <!---LeetCode Topics End-->
