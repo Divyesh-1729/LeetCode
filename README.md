@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Divyesh-1729/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/Divyesh-1729/LeetCode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Divyesh-1729/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Divyesh-1729/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Divyesh-1729/LeetCode/tree/master/0412-fizz-buzz) |
@@ -411,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Divyesh-1729/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
