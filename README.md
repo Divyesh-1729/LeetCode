@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Divyesh-1729/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Divyesh-1729/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Divyesh-1729/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Divyesh-1729/LeetCode/tree/master/2652-sum-multiples) |
@@ -420,4 +422,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Divyesh-1729/LeetCode/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
