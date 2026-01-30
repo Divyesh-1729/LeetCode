@@ -1,34 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    unordered_map<int, bool> used;
 
-    void solve(vector<int>& nums, vector<int>& temp) {
+    void solve(int index, vector<int>& nums) {
         // Base case
-        if (temp.size() == nums.size()) {
-            ans.push_back(temp);
+        if (index == nums.size()) {
+            ans.push_back(nums);
             return;
         }
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (used[i] == true) continue;
-
+        for (int i = index; i < nums.size(); i++) {
             // Choose
-            used[i] = true;
-            temp.push_back(nums[i]);
+            swap(nums[index], nums[i]);
 
             // Explore
-            solve(nums, temp);
+            solve(index + 1, nums);
 
             // Unchoose (Backtrack)
-            temp.pop_back();
-            used[i] = false;
+            swap(nums[index], nums[i]);
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> temp;
-        solve(nums, temp);
+        solve(0, nums);
         return ans;
     }
 };
