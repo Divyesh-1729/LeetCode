@@ -8,9 +8,9 @@ public:
         }
         sort(sorted.begin(),sorted.end(), greater<>());
         vector<vector<int>> result;
-        for(auto &p :sorted) 
+        for(auto &it :sorted) 
         {
-            result.push_back(score[p.second]);
+            result.push_back(score[it.second]);
         }
         return result;
     }
