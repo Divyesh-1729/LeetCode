@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyesh-1729/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Divyesh-1729/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Divyesh-1729/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Divyesh-1729/LeetCode/tree/master/0283-move-zeroes) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Divyesh-1729/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Divyesh-1729/LeetCode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Divyesh-1729/LeetCode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Divyesh-1729/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Divyesh-1729/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Divyesh-1729/LeetCode/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Divyesh-1729/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/Divyesh-1729/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Divyesh-1729/LeetCode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Doubly-Linked List
