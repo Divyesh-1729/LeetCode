@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Divyesh-1729/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Divyesh-1729/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0055-jump-game) |
@@ -446,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Divyesh-1729/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
