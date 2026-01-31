@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Divyesh-1729/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Divyesh-1729/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Divyesh-1729/LeetCode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Doubly-Linked List
