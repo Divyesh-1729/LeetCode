@@ -5,9 +5,10 @@ public:
         int r = piles.size();
         int count = 0;
 
-        for (int i = 0; i < piles.size() / 3; i++) {
+        for (int i =0; i<piles.size() / 3; i++) 
+        {
             count += piles[r - 2];
-            r -= 2;
+            r = r - 2;
         }
         return count;
     }
