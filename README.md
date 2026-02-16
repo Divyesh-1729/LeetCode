@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Divyesh-1729/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
