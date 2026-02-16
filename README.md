@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Divyesh-1729/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1732-find-the-highest-altitude](https://github.com/Divyesh-1729/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyesh-1729/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Divyesh-1729/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Divyesh-1729/LeetCode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Divyesh-1729/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
 |  |
