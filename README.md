@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Divyesh-1729/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Divyesh-1729/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Divyesh-1729/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/0053-maximum-subarray) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Divyesh-1729/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Divyesh-1729/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/0349-intersection-of-two-arrays) |
