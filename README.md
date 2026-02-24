@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2942-find-words-containing-character](https://github.com/Divyesh-1729/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
+| [2942-find-words-containing-character](https://github.com/Divyesh-1729/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
 ## Queue
 |  |
