@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1390-four-divisors](https://github.com/Divyesh-1729/LeetCode/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Divyesh-1729/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Divyesh-1729/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Divyesh-1729/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Divyesh-1729/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Divyesh-1729/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Divyesh-1729/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Divyesh-1729/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Stack
