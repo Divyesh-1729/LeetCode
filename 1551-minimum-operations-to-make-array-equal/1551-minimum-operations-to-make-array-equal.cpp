@@ -12,12 +12,21 @@ public:
         // {
         //     sum = sum + i;
         // }
-        // int avg = sum/n;
-        // int y= nums.size()-1;
-        // while(x<y)
-        // {
 
-        // }
+//         int x = 0;
+//         int y = n - 1;
+//         int operations = 0;
+
+//         while (x < y) {
+//             operations += (n - (2 * x + 1));
+//             x++;
+//             y--;
+//         }
+
+//         return operations;
+//     }
+// };
         return (n*n)/4;
     }
 };
+
