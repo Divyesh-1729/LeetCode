@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyesh-1729/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Divyesh-1729/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Divyesh-1729/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyesh-1729/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyesh-1729/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Divyesh-1729/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Divyesh-1729/LeetCode/tree/master/0031-next-permutation) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyesh-1729/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Divyesh-1729/LeetCode/tree/master/0070-climbing-stairs) |
