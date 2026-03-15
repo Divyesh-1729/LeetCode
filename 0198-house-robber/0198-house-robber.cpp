@@ -11,11 +11,12 @@ int solve(vector<int> &nums, int i, vector<int> &dp)
     {
         return dp[i];
     }
+    int uttar = 0;
     int include = nums[i] + solve(nums, i+2, dp);
     int exclude = 0 + solve(nums, i+1, dp);
-    dp[i] = max(include,exclude);
+    uttar = max(include,exclude);
 
-    return dp[i];
+    return dp[i]=uttar;
 }
     int rob(vector<int>& nums) {
         int n = nums.size();
