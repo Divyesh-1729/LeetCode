@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1035-uncrossed-lines](https://github.com/Divyesh-1729/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1051-height-checker](https://github.com/Divyesh-1729/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Divyesh-1729/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Divyesh-1729/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Divyesh-1729/LeetCode/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Divyesh-1729/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0877-stone-game) |
+| [1035-uncrossed-lines](https://github.com/Divyesh-1729/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
