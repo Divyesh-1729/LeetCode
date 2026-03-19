@@ -20,6 +20,5 @@ public:
         int rightHeight = maxDepth(root->right);
         int totalheight = max(leftHeight, rightHeight) +1;
         return totalheight;
-
     }
 };
