@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool solve(string& s, int i,int j)
+    bool solve(string& s, int i,int j) ///vvvvv important
     {
         if(i>=j)
         {
