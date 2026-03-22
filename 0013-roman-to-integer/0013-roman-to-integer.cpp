@@ -16,7 +16,7 @@ public:
         int result = map[s[len - 1]];
 
         for (int i = len - 2; i >= 0; i--) {
-            if (map[s[i]] >= map[s[i + 1]])
+            if (map[s[i]] >= map[s[i +1]])
                 result += map[s[i]];
             else
                 result -= map[s[i]];
