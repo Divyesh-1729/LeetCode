@@ -7,7 +7,7 @@ public:
         {
             if(st.find(ans)!=st.end())
             {
-                ans=ans*2;
+                ans=ans*2;   //VVVVVIMP
             }
         }
         return ans;
