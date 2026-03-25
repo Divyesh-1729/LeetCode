@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1732-find-the-highest-altitude](https://github.com/Divyesh-1729/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Divyesh-1729/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyesh-1729/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Recursion
 |  |
 | ------- |
