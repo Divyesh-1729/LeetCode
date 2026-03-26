@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Divyesh-1729/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Divyesh-1729/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Divyesh-1729/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Divyesh-1729/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/Divyesh-1729/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
