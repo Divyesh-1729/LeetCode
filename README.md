@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2129-capitalize-the-title](https://github.com/Divyesh-1729/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Divyesh-1729/LeetCode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Divyesh-1729/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
