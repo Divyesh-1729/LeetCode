@@ -12,7 +12,7 @@
 class Solution {
 public:
     ListNode* removeNodes(ListNode* head) {
-        ListNode* ans = new ListNode(-1);
+        
         stack<int>st;
         ListNode* temp  = head;
         while(temp!=NULL)
