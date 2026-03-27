@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Divyesh-1729/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Divyesh-1729/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Tree
 |  |
 | ------- |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Divyesh-1729/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Recursion
 |  |
 | ------- |
