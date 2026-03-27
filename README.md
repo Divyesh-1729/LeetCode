@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Divyesh-1729/LeetCode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
