@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Divyesh-1729/LeetCode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Divyesh-1729/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Divyesh-1729/LeetCode/tree/master/0075-sort-colors) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Divyesh-1729/LeetCode/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Divyesh-1729/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Divyesh-1729/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Divyesh-1729/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyesh-1729/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
