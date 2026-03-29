@@ -14,7 +14,7 @@ public:
     }
     string longestPalindrome(string s) {
         int n = s.length();
-        int maxlen = 0;
+        int maxlen = INT_MIN;
 
         int sp = 0;
         for(int i =0;i<n;i++)
