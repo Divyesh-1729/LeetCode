@@ -1,8 +1,8 @@
 class Solution {
 public:
-int solve(int n,vector<int>&dp)
+int solve(int n,vector<int>& dp)
 {
-    if(n==0)
+        if(n==0)
         {
             return 0;
         }
@@ -14,12 +14,11 @@ int solve(int n,vector<int>&dp)
         {
             return dp[n];
         }
-        int ans = solve(n-1,dp)+solve(n-2,dp)+solve(n-3,dp);
-        return dp[n]=ans;
+        return dp[n]=solve(n-1,dp)+solve(n-2,dp)+solve(n-3,dp);
 }
     int tribonacci(int n) {
-        vector<int>dp(n+1,-1);
-        int answer = solve(n,dp);
-        return answer;
+        vector<int> dp(n+1,-1);
+        int ans = solve(n,dp);
+        return ans;
     }
 };
