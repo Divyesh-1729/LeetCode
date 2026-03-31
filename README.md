@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/Divyesh-1729/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/Divyesh-1729/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/3024-type-of-triangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Divyesh-1729/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Divyesh-1729/LeetCode/tree/master/2652-sum-multiples) |
+| [2965-find-missing-and-repeated-values](https://github.com/Divyesh-1729/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Divyesh-1729/LeetCode/tree/master/3099-harshad-number) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Divyesh-1729/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/Divyesh-1729/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Divyesh-1729/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Database
 |  |
