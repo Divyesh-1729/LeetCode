@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Divyesh-1729/LeetCode/tree/master/2465-number-of-distinct-averages) |
+| [2527-find-xor-beauty-of-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/Divyesh-1729/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Divyesh-1729/LeetCode/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/Divyesh-1729/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2527-find-xor-beauty-of-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2568-minimum-impossible-or](https://github.com/Divyesh-1729/LeetCode/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
