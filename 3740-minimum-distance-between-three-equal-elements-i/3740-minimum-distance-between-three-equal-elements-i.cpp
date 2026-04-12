@@ -16,6 +16,10 @@ public:
                 }
             }
         }
-        return  mini == INT_MAX ? -1 : mini;
+        if(mini==INT_MAX)
+        {
+            return -1;
+        }
+        return mini;
     }
 };
