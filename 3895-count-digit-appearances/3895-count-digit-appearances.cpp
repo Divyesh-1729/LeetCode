@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countDigitOccurrences(vector<int>& nums, int digit) {
-        char ch = digit + '0';
+        char ch =+ '0'+digit;
         int count  =0;
         for(int i:nums)
         {
