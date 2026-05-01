@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Divyesh-1729/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/Divyesh-1729/LeetCode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/0455-assign-cookies) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Divyesh-1729/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Divyesh-1729/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Divyesh-1729/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/Divyesh-1729/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Divyesh-1729/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Divyesh-1729/LeetCode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Divyesh-1729/LeetCode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Divyesh-1729/LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Divyesh-1729/LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Divyesh-1729/LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Divyesh-1729/LeetCode/tree/master/0678-valid-parenthesis-string) |
