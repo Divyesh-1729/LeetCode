@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Divyesh-1729/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Divyesh-1729/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyesh-1729/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Divyesh-1729/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Divyesh-1729/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Divyesh-1729/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Number Theory
 |  |
 | ------- |
