@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Divyesh-1729/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Divyesh-1729/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1446-consecutive-characters](https://github.com/Divyesh-1729/LeetCode/tree/master/1446-consecutive-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Divyesh-1729/LeetCode/tree/master/1678-goal-parser-interpretation) |
