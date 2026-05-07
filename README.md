@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/3024-type-of-triangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3248-snake-in-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Divyesh-1729/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Divyesh-1729/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
+| [3248-snake-in-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/3248-snake-in-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Divyesh-1729/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
+| [3248-snake-in-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
