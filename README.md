@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2568-minimum-impossible-or](https://github.com/Divyesh-1729/LeetCode/tree/master/2568-minimum-impossible-or) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Divyesh-1729/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/3248-snake-in-matrix) |
