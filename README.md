@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Divyesh-1729/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/Divyesh-1729/LeetCode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0867-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Divyesh-1729/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
