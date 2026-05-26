@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Divyesh-1729/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Divyesh-1729/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Divyesh-1729/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Divyesh-1729/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/3248-snake-in-matrix) |
 ## Queue
