@@ -7,13 +7,13 @@ public:
         unordered_map<char,int> lowerl;
         unordered_map<char,int> upperf;
 
-        for(int i = 0; i < n; i++)
+        for(int i =0; i<n; i++)
         {
-            char c = word[i];
+            char c =word[i];
 
             if(islower(c))
             {
-                lowerl[c] = i;
+                lowerl[c] =i;
             }
             else
             {
@@ -21,14 +21,14 @@ public:
 
                 if(upperf.find(lower) == upperf.end())
                 {
-                    upperf[lower] = i;
+                    upperf[lower]= i;
                 }
             }
         }
 
         int cnt = 0;
 
-        for(auto it : lowerl)
+        for(auto it:lowerl)
         {
             char ch = it.first;
 
