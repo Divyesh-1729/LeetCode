@@ -4,12 +4,13 @@ public:
     {
         int score =0;
         string s = to_string(num);
-        for (int i = 1; i + 1 < s.size(); i++) {
-                if ((s[i] > s[i - 1] && s[i] > s[i + 1]) ||
-                    (s[i] < s[i - 1] && s[i] < s[i + 1])) {
+        for (int i = 1; i + 1 < s.size(); i++) 
+        {
+                if ((s[i]>s[i - 1] &&s[i]>s[i +1])||(s[i]<s[i - 1]&& s[i]< s[i+1])) 
+                {
                     score++;
                 }
-            }
+        }
             return score;
 
     }
