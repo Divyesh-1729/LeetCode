@@ -1,29 +1,27 @@
 class Solution {
 public:
-int solve(vector<int> &nums, int i, vector<int> &dp)
-{
-    //base case
-    if(i>=nums.size())
+    int solve(int i, vector<int>& nums, vector<int>& dp)
     {
-        return 0;
-    }
-    if(dp[i]!=-1)
-    {
-        return dp[i];
-    }
-    int uttar = 0;
-    int include = nums[i] + solve(nums, i+2, dp);
-    int exclude = 0 + solve(nums, i+1, dp);
-    uttar = max(include,exclude);
+        if(i == 0)
+            return nums[0];
 
-    return dp[i]=uttar;
-}
+        if(i < 0)
+            return 0;
+
+        if(dp[i] != -1)
+            return dp[i];
+
+        int pick = nums[i] + solve(i-2, nums, dp);
+        int notPick = solve(i-1, nums, dp);
+
+        return dp[i] = max(pick, notPick);
+    }
+
     int rob(vector<int>& nums) {
         int n = nums.size();
         vector<int>dp(n+1, -1);
-        int i = 0;
-        int ans = solve(nums,i,dp);
+
+        int ans= solve(n-1, nums, dp);
         return ans;
-        
     }
 };
