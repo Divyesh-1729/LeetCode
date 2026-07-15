@@ -5,9 +5,13 @@ public:
         for(int i=1;i<=n*2;i++)
         {
             if(i%2==0)
+            {
                 evensum = evensum+i;
+            }
             else if(i%2==1)
+            {
                 oddsum= oddsum+i;
+            }
         }
         return gcd(oddsum,evensum);
     }
