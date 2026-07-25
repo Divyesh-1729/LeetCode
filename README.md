@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Divyesh-1729/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Divyesh-1729/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Divyesh-1729/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Divyesh-1729/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Divyesh-1729/LeetCode/tree/master/0125-valid-palindrome) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyesh-1729/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Divyesh-1729/LeetCode/tree/master/0062-unique-paths) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Divyesh-1729/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Divyesh-1729/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Divyesh-1729/LeetCode/tree/master/0078-subsets) |
