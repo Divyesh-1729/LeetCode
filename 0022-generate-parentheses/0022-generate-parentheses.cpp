@@ -10,6 +10,7 @@ public:
             {
                 count++;
             }
+
             else
             {
                 count--;
@@ -18,6 +19,7 @@ public:
             {
                 return false;
             }
+    
         }
         return count==0;
     }
