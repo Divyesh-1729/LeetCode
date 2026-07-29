@@ -31,3 +31,6 @@ public:
         return result;
     }
 };
+
+//n3 madhe every subarrya visist karun check karaycha not optimal
+//n2 madhe pan same but increment constant thevaycha
