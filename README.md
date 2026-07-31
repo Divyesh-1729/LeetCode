@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyesh-1729/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyesh-1729/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Divyesh-1729/LeetCode/tree/master/0463-island-perimeter) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Divyesh-1729/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Geometry
