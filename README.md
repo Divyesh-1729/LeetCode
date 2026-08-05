@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Divyesh-1729/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Divyesh-1729/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Divyesh-1729/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyesh-1729/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Divyesh-1729/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Divyesh-1729/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Divyesh-1729/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Divyesh-1729/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyesh-1729/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Divyesh-1729/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Divyesh-1729/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyesh-1729/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0101-symmetric-tree) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Divyesh-1729/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Divyesh-1729/LeetCode/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0867-transpose-matrix) |
@@ -963,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Divyesh-1729/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Divyesh-1729/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Divyesh-1729/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Divyesh-1729/LeetCode/tree/master/0079-word-search) |
 | [1079-letter-tile-possibilities](https://github.com/Divyesh-1729/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Divyesh-1729/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
