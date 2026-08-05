@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Divyesh-1729/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Divyesh-1729/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/Divyesh-1729/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Divyesh-1729/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2351-first-letter-to-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Divyesh-1729/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/1291-sequential-digits) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Divyesh-1729/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Divyesh-1729/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Divyesh-1729/LeetCode/tree/master/0078-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/Divyesh-1729/LeetCode/tree/master/1079-letter-tile-possibilities) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Divyesh-1729/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Memoization
 |  |
