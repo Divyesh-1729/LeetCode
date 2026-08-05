@@ -961,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Divyesh-1729/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Divyesh-1729/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Divyesh-1729/LeetCode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Divyesh-1729/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Divyesh-1729/LeetCode/tree/master/0078-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/Divyesh-1729/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Divyesh-1729/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
