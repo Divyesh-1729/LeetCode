@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/Divyesh-1729/LeetCode/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Divyesh-1729/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/Divyesh-1729/LeetCode/tree/master/3516-find-closest-person) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Doubly-Linked List
