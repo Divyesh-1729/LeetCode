@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Divyesh-1729/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Divyesh-1729/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Divyesh-1729/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyesh-1729/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## String
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Divyesh-1729/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyesh-1729/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1991-find-the-middle-index-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Stack
 |  |
 | ------- |
