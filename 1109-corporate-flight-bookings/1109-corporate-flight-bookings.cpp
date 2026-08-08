@@ -9,20 +9,15 @@ public:
             int last = it[1];
             int seats = it[2];
 
-            diff[first-1] = diff[first-1]+seats;  //index 1 pasun chalu;
-            if(last<n)
+            for(int i=first;i<=last;i++)
             {
-                diff[last] = diff[last]-seats;
-            }
+                diff[i-1]=diff[i-1]+ seats;
+            }       
 
-        }
-
-        for(int i=1;i<n;i++)
-        {
-            diff[i]= diff[i-1]+diff[i];
         }
 
         return diff;
+
 
 
     }
