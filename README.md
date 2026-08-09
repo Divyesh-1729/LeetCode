@@ -1041,4 +1041,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Divyesh-1729/LeetCode/tree/master/0881-boats-to-save-people) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Divyesh-1729/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
