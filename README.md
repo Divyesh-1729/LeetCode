@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Divyesh-1729/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Divyesh-1729/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Divyesh-1729/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2568-minimum-impossible-or](https://github.com/Divyesh-1729/LeetCode/tree/master/2568-minimum-impossible-or) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Divyesh-1729/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2614-prime-in-diagonal](https://github.com/Divyesh-1729/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyesh-1729/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Divyesh-1729/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Divyesh-1729/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Divyesh-1729/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Divyesh-1729/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Divyesh-1729/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/3248-snake-in-matrix) |
