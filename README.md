@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Divyesh-1729/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Divyesh-1729/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divyesh-1729/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Divyesh-1729/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
