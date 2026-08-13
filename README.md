@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyesh-1729/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Divyesh-1729/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Divyesh-1729/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/Divyesh-1729/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyesh-1729/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Divyesh-1729/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Divyesh-1729/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Divyesh-1729/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Divyesh-1729/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Divyesh-1729/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Divyesh-1729/LeetCode/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyesh-1729/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1991-find-the-middle-index-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Divyesh-1729/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Stack
 |  |
