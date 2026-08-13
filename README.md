@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Divyesh-1729/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Divyesh-1729/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/Divyesh-1729/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2785-sort-vowels-in-a-string](https://github.com/Divyesh-1729/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Divyesh-1729/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/Divyesh-1729/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Divyesh-1729/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
