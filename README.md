@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Divyesh-1729/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2401-longest-nice-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2418-sort-the-people](https://github.com/Divyesh-1729/LeetCode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Divyesh-1729/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Divyesh-1729/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2351-first-letter-to-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2401-longest-nice-subarray](https://github.com/Divyesh-1729/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2527-find-xor-beauty-of-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2568-minimum-impossible-or](https://github.com/Divyesh-1729/LeetCode/tree/master/2568-minimum-impossible-or) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
