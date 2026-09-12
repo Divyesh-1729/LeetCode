@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyesh-1729/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Divyesh-1729/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Divyesh-1729/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0137-single-number-ii) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Divyesh-1729/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Divyesh-1729/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Divyesh-1729/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Divyesh-1729/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0268-missing-number) |
@@ -1114,5 +1116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Divyesh-1729/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
