@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Divyesh-1729/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Divyesh-1729/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divyesh-1729/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1695-maximum-erasure-value](https://github.com/Divyesh-1729/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Divyesh-1729/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Divyesh-1729/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divyesh-1729/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyesh-1729/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Divyesh-1729/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Divyesh-1729/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divyesh-1729/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Divyesh-1729/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Divyesh-1729/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Divyesh-1729/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divyesh-1729/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Divyesh-1729/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Divyesh-1729/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
