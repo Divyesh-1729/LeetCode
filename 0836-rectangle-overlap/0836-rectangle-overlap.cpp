@@ -9,3 +9,6 @@ public:
         return true;
     }
 };
+
+
+//fakt intersect hotoy ka nahi check karne
