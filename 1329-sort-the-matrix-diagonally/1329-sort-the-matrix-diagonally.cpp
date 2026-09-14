@@ -5,8 +5,10 @@ public:
         int n=mat[0].size();
 
         unordered_map<int,vector<int>>mp;
-        for (int i=0; i<m;i++) {
-            for (int j=0;j<n;j++) {
+        for (int i=0; i<m;i++) 
+        {
+            for (int j=0;j<n;j++) 
+            {
                 mp[i-j].push_back(mat[i][j]);
             }
         }
