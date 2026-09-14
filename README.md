@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Divyesh-1729/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Divyesh-1729/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Divyesh-1729/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Divyesh-1729/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Divyesh-1729/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Divyesh-1729/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Divyesh-1729/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
