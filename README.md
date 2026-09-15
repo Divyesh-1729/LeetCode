@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/Divyesh-1729/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divyesh-1729/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Divyesh-1729/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Divyesh-1729/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divyesh-1729/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Divyesh-1729/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Divyesh-1729/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Divyesh-1729/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Divyesh-1729/LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Divyesh-1729/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Divyesh-1729/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/Divyesh-1729/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Game Theory
 |  |
 | ------- |
