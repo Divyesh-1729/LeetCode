@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divyesh-1729/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divyesh-1729/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Divyesh-1729/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Divyesh-1729/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0867-transpose-matrix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divyesh-1729/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Divyesh-1729/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Divyesh-1729/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Divyesh-1729/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyesh-1729/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Divyesh-1729/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Divyesh-1729/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/Divyesh-1729/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Divyesh-1729/LeetCode/tree/master/0506-relative-ranks) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Divyesh-1729/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Divyesh-1729/LeetCode/tree/master/1046-last-stone-weight) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Divyesh-1729/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Divyesh-1729/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Divyesh-1729/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
