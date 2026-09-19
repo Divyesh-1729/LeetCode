@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyesh-1729/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Divyesh-1729/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Divyesh-1729/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/Divyesh-1729/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Divyesh-1729/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divyesh-1729/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Divyesh-1729/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2351-first-letter-to-appear-twice](https://github.com/Divyesh-1729/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Divyesh-1729/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Divyesh-1729/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Divyesh-1729/LeetCode/tree/master/2235-add-two-integers) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Divyesh-1729/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Divyesh-1729/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Number Theory
 |  |
@@ -1081,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/1291-sequential-digits) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Divyesh-1729/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1925-count-square-sum-triples](https://github.com/Divyesh-1729/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divyesh-1729/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
