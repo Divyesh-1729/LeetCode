@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Divyesh-1729/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyesh-1729/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/Divyesh-1729/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Divyesh-1729/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Divyesh-1729/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Divyesh-1729/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Divyesh-1729/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Number Theory
 |  |
 | ------- |
