@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Divyesh-1729/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3866-first-unique-even-element](https://github.com/Divyesh-1729/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divyesh-1729/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
