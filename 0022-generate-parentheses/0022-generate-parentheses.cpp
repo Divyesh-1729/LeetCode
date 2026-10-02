@@ -1,56 +1,49 @@
 class Solution {
 public:
     vector<string>result;
-    bool isValid(string curr, int n)
-    {
-        int count =0;
-        for(char &c:curr)
+
+        bool isvalid(string &curr)
         {
-            if(c=='(')
+            int count =0;
+            for(char& c:curr)
             {
-                count++;
+                if(c=='(')
+                {
+                    count++;
+                }
+                else if(c==')')
+                {
+                    count--;
+                }
+                if(count<0)
+                {
+                    return false;
+                }
             }
-
-            else
-            {
-                count--;
-            }
-            if(count<0)
-            {
-                return false;
-            }
-    
+            return count==0;
         }
-        return count==0;
-    }
-    void solve(string curr, int n)
-    {
-        if(curr.length()== 2*n)
+        void solve(string &curr,int n)
         {
-            if(isValid(curr,n))
+            if(curr.length()==2*n)
             {
-                result.push_back(curr);
-
-
+                if(isvalid(curr))
+                {
+                    result.push_back(curr);
+                }
+                return;
             }
-            return;
+
+            curr.push_back('(');
+            solve(curr,n);
+            curr.pop_back();
+
+            curr.push_back(')');
+            solve(curr,n);
+            curr.pop_back();
         }
-        curr.push_back('(');
-        solve(curr,n);
-        curr.pop_back();
-
-        curr.push_back(')');
-        solve(curr,n);
-        curr.pop_back();
-
-
-    }
-    vector<string> generateParenthesis(int n) {
-        string curr ="";
-
-
+        vector<string> generateParenthesis(int n) {
+        string curr="";
         solve(curr,n);
         return result;
-
     }
 };
