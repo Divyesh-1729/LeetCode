@@ -1,7 +1,7 @@
 class Solution {
 public:
-int solve(int n , vector<int>& dp)
-{
+    int solve(int n,vector<int>& dp)
+    {
         if(n==0)
         {
             return 1;
@@ -14,22 +14,15 @@ int solve(int n , vector<int>& dp)
         {
             return dp[n];
         }
-        int ans = solve(n-1,dp)+solve(n-2,dp);
+
+        int ans=solve(n-1,dp)+solve(n-2,dp);
         return dp[n]=ans;
-}
+    }
     int climbStairs(int n) {
-
-        vector<int>dp(n+1,-1);
-
-
-        int ans = solve(n,dp);
-        return ans;
         
+        vector<int>dp(n+1,-1);
+        int answer=solve(n,dp);
+        return answer;
         
     }
 };
-
-
-
-
-
