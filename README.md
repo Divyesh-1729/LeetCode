@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Divyesh-1729/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Divyesh-1729/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Divyesh-1729/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/3804-number-of-centered-subarrays) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Divyesh-1729/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divyesh-1729/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Divyesh-1729/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Divyesh-1729/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
