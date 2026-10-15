@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Divyesh-1729/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Divyesh-1729/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/Divyesh-1729/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyesh-1729/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Divyesh-1729/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Divyesh-1729/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Divyesh-1729/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Divyesh-1729/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -1150,10 +1152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/Divyesh-1729/LeetCode/tree/master/1395-count-number-of-teams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divyesh-1729/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
 |  |
 | ------- |
