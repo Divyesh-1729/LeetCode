@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Divyesh-1729/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Divyesh-1729/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Divyesh-1729/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Divyesh-1729/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Divyesh-1729/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divyesh-1729/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyesh-1729/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Divyesh-1729/LeetCode/tree/master/0463-island-perimeter) |
 | [0606-construct-string-from-binary-tree](https://github.com/Divyesh-1729/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Divyesh-1729/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Divyesh-1729/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Divyesh-1729/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Divyesh-1729/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Divyesh-1729/LeetCode/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/Divyesh-1729/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Divyesh-1729/LeetCode/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Divyesh-1729/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Divyesh-1729/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divyesh-1729/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Divyesh-1729/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1231,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Divyesh-1729/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Divyesh-1729/LeetCode/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Divyesh-1729/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
