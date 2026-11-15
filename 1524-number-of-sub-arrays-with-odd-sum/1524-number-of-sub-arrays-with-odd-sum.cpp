@@ -1,19 +1,6 @@
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
-//         int count = 0;
-//         int  n = arr.size();
-        
-//         for(int i=0;i<n;i++){
-//     long long sum = 0;
-//     for(int j=i;j<n;j++){
-//         sum += arr[j];
-//         if(sum%2==1)
-//             count++;
-//     }
-// }
-//         return count;
-       
        int MOD = 1000000007;
        int evenCount = 1;
        int prefix = 0;
@@ -37,10 +24,6 @@ public:
 
        res = (int) res;
        return res;
-      
        
-
-
-
     }
 };
