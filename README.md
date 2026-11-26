@@ -764,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Divyesh-1729/LeetCode/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Divyesh-1729/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Divyesh-1729/LeetCode/tree/master/3360-stone-removal-game) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Divyesh-1729/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/Divyesh-1729/LeetCode/tree/master/3516-find-closest-person) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Divyesh-1729/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Divyesh-1729/LeetCode/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Divyesh-1729/LeetCode/tree/master/3248-snake-in-matrix) |
+| [3360-stone-removal-game](https://github.com/Divyesh-1729/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divyesh-1729/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Divyesh-1729/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
